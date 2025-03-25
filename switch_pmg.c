@@ -28,4 +28,7 @@ int main() {
         case 3:
             printf("You selected Option 3.\n");
             break;
+	case 4:
+	    printf("you selected option 4.\n");
+	    break;
 
